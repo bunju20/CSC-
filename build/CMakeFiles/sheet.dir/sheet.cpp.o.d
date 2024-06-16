@@ -1,4 +1,4 @@
-CMakeFiles/EncryptedVotingSystem.dir/sheet.cpp.o: \
+CMakeFiles/sheet.dir/sheet.cpp.o: \
   /Users/bunju/Git/CSC-HomomorphicEncryption/sheet.cpp \
   /Users/bunju/Git/CSC-HomomorphicEncryption/SEAL/native/src/seal/seal.h \
   /Users/bunju/Git/CSC-HomomorphicEncryption/SEAL/native/src/seal/batchencoder.h \
